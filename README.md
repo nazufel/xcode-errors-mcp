@@ -2,6 +2,8 @@
 
 An MCP (Model Context Protocol) server that bridges Xcode and Cursor, enabling real-time access to Xcode build errors, warnings, and debug output directly within Cursor.
 
+⚠️ This repo is still under development and things may break without warning.
+
 ## Features
 
 - **Real-time Error Monitoring**: Automatically detects and parses Xcode build errors and warnings
