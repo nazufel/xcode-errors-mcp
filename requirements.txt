@@ -1,0 +1,15 @@
+# MCP Server Dependencies
+mcp>=1.0.0
+
+# File System Monitoring
+watchdog>=3.0.0
+
+# Log Parsing and Analysis
+regex>=2023.0.0
+python-dateutil>=2.8.0
+
+# Development Dependencies (optional)
+# pytest>=7.0.0
+# pytest-asyncio>=0.21.0
+# black>=23.0.0
+# mypy>=1.0.0

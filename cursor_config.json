@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "xcode-errors": {
+      "command": "/path/to/your/xcode-errors-mcp/venv/bin/python",
+      "args": [
+        "/path/to/your/xcode-errors-mcp/src/xcode_mcp_server.py"
+      ],
+      "env": {
+        "PYTHONPATH": "/path/to/your/xcode-errors-mcp/src"
+      }
+    }
+  }
+}
