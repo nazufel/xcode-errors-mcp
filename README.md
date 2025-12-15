@@ -1,6 +1,6 @@
 # Xcode Errors MCP Server (WIP)
 
-An MCP (Model Context Protocol) server that bridges Xcode and Cursor, enabling real-time access to Xcode build errors, warnings, and debug output directly within Cursor.
+An MLOps pipeline using MCP (Model Context Protocol) server that bridges Xcode and Cursor, enabling real-time access to Xcode build errors, warnings, and debug output directly within Cursor.
 
 ⚠️ This repo is still under development and things may break without warning.
 
